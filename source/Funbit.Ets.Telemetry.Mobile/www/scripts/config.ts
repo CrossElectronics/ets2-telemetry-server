@@ -37,7 +37,7 @@ module Funbit.Ets.Telemetry {
         public static disconnected = 'Disconnected';
         public static enterServerIpMessage = 'Please enter server IP address (aa.bb.cc.dd)';
         public static incorrectServerIpFormat = 'Entered server IP or hostname has incorrect format.';
-        // dashboard.ts
+        // dashboard.js
         public static dayOfTheWeek = [
             'Sunday',
             'Monday',
